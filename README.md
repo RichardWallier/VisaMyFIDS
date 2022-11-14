@@ -1,6 +1,6 @@
 ## Apresentação
 
-<img src="./assets/interface.jpg">
+<img src="./assets/interface.png">
 
 ### Quem nunca…
 …ficou perdido no aeroporto?
