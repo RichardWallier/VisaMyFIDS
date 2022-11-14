@@ -1,0 +1,23 @@
+.timeGrid{
+    text-align: right;
+}
+
+.container{
+    color: black;
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+.imageGrid{
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1px 0px;
+}
+
+.time{
+    color: #838383;
+    font-size: 11px;
+}

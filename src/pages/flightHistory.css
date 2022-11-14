@@ -1,0 +1,36 @@
+.history {
+  background: #373b44; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to bottom,
+    #0D1F5C,
+    #0B8CA8
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #0D1F5C,
+    #0B8CA8
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  /* background-color: ; */
+  height: 25vh;
+}
+
+.history-header {
+  margin-top: 15vh;
+}
+
+.history-header-content {
+    font-size: 30px;
+    text-align: bottom;
+    color: white;
+    font-weight: bold;
+}
+
+.history-content {
+    margin-top: 6vh;
+    margin-bottom: 10vh;
+}
+
+.history-box-air {
+  margin-bottom: 2rem;
+}
