@@ -1,27 +1,27 @@
-## Apresentação
+## Presentation
+
+My first Hackaton, I had 2 months studying programming :)
 
 <img src="./assets/interface.png">
 
-### Quem nunca…
-…ficou perdido no aeroporto?
-…ficou ansioso esperando a bagagem que nunca aparece?
-…ficou preocupado com a hora do check-in?
-…ficou perdido buscando o portão correto?
+### Who hasn't...
+...been lost at the airport?
+...felt anxious waiting for luggage that never arrives?
+...worried about the check-in time?
+...been confused searching for the correct gate?
 
-Com o Visa myFids, todas as informações que você precisa para sua viagem estão em um só lugar.
+With Visa myFids, all the information you need for your trip is in one place.
 
-
-## Equipe
+## Team
 
 [Richard Wallier](https://github.com/RichardWallier) | [Vitor Sergio](https://github.com/itsmevitinn) | [Lohan Guedes](https://github.com/LohanGuedes) | [Willian Caetano](https://github.com/williancaetano)
 
 <hr>
 
-A ideia principal é integrar diversos serviços, como o local da bagagem e o status do voo, em um só lugar facilitando a vida do viajante com informações que nao costumam ser de tao facil acesso.
+The main idea is to integrate various services, such as luggage location and flight status, into one place, making the traveler's life easier with information that is not usually easily accessible.
 
-Informações sobre atualizações de bagagem, local do embarque, horário do embarque, melhores lugares no entorno para comer, onde sacar dinheiro, entre outras opções fazem parte de nosso roadmap, para no fim agregar valor ao usuário final.
+Information about luggage updates, boarding gate, boarding time, best nearby places to eat, where to withdraw money, among other options, are part of our roadmap, to ultimately add value to the end user.
 
+## Goal
 
-## Meta
-
-Tornar facil e descomplicada a viagem do aeroporto até o destino final.
+To make the journey from the airport to the final destination easy and uncomplicated.
